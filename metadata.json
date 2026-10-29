@@ -1,0 +1,7 @@
+{
+  "name": "Loquacious — Cognitive Assessment Research Platform",
+  "description": "Speech-based cognitive assessment research prototype exploring acoustic biomarkers and machine learning analysis in cognitive science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
